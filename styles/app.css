@@ -18,7 +18,7 @@ body {
     font-family: 'Arial', sans-serif;
 }
 
-#list {
+.list {
     flex: 3;
     background-color: var(--ocean-pale-blue);
     background-image: 
